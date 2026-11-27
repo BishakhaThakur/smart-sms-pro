@@ -1,0 +1,12 @@
+streamlit
+streamlit-option-menu
+sqlalchemy
+psycopg[binary]
+bcrypt
+pandas
+numpy
+scikit-learn
+plotly
+fpdf2
+twilio
+python-dotenv
